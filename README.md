@@ -1,77 +1,30 @@
-                        
+Multi-modal Medical Knowledge Graph
 
-## 
-                            <font face="helvetica" style="font-size:24px">Dataset</font>
+Download:https://pan.baidu.com/s/16WrYXyVkvaKvVi6JZ_PLoA
 
-* * *
+pwd: qbbv
 
-                        <font face="helvetica" style="font-size:15px">
-                            <div>
-                                [
-                                    ![](./assets/img/download_button.jpg)
-                                ]()
-                                <div style="margin-left: 10px; display: inline-block;">
-                                    [Multi-modal Medical Knowledge Graph](https://pan.baidu.com/s/16WrYXyVkvaKvVi6JZ_PLoA) 57.05 GB
+| #Type | #Rel | #Triples | #Images |
+| ----- | ---- | -------- | ------- |
+| 6     | 17   | 58992    | 741935  |
 
-                                    pwd: qbbv
-                                </div>
-                            </div>
+## Citation
 
-                            <table border="1" align="center">
-                                <tr>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Type&nbsp;</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Rel&nbsp;
-</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Triples &nbsp;
-</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Images &nbsp;
-</th>
-                                </tr>
-                                <tr>
-                                    <td align="center">&nbsp;6</td>
-                                    <td align="center">&nbsp;17</td>
-                                    <td align="center">&nbsp;59882</td>
-                                    <td align="center">&nbsp;741935</tds>
-                                </tr>
-                            </table> 
+```
+@inproceedings{DBLP:conf/mm/ZhangQFX19,
+  author    = {Yingying Zhang and
+               Shengsheng Qian and
+               Quan Fang and
+               Changsheng Xu},
+  title     = {Multi-modal Knowledge-aware Hierarchical Attention Network for Explainable
+               Medical Question Answering},
+  booktitle = {Proceedings of the 27th {ACM} International Conference on Multimedia,
+               {MM} 2019, Nice, France, October 21-25, 2019},
+  pages     = {1089--1097},
+  year      = {2019},
+  crossref  = {DBLP:conf/mm/2019},
+  url       = {https://doi.org/10.1145/3343031.3351033},
+  doi       = {10.1145/3343031.3351033},
+}
+```
 
-                            <div>
-                                [
-                                    ![](./assets/img/download_button.jpg)
-                                ]()
-                                <div style="margin-left: 10px; display: inline-block;">
-                                    [Medical Questions and Answers](https://pan.baidu.com/s/1xP6NfCjUmOxhA2i9682KMg) 7.93 GB
-
-                                    pwd: sygq
-                                </div>
-                            </div>
-
-                            <table border="1" align="center">
-                                <tr>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Dataset &nbsp;</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#QA pairs &nbsp;
-</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Avg. Q-Len &nbsp;
-</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Avg. A-Len &nbsp;
-</th>
-                                    <th align="center" bgcolor=#F0F0F0>&nbsp;#Clinics &nbsp;
-</th>
-                                </tr>
-                                <tr>
-                                    <td align="center">&nbsp;Chunyu</td>
-                                    <td align="center">&nbsp;245085</td>
-                                    <td align="center">&nbsp;32</td>
-                                    <td align="center">&nbsp;75</td>
-                                    <td align="center">&nbsp;16</td>
-                                </tr>
-                                <tr>
-                                    <td align="center">&nbsp;Dingxiang</td>
-                                    <td align="center">&nbsp;273003</td>
-                                    <td align="center">&nbsp;115</td>
-                                    <td align="center">&nbsp;284</td>
-                                    <td align="center">&nbsp;25</tds>
-                                </tr>
-                            </table> 
-
-                        </font>
